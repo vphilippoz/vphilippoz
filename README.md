@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vphilippoz
-- 👀 I’m interested in robotics.
-- 🌱 I’m currently learning robotics.
-- 💞️ I’m looking to collaborate on robotics.
-- 📫 Reach me by robotics.
+- 👋 Hi, I am Vincent Philippoz
+- 🎓 I study Robotics at EPFL 
 
 <!---
 vphilippoz/vphilippoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
