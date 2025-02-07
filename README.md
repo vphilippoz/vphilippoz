@@ -1,5 +1,5 @@
-- 👋 Hi, I am Vincent Philippoz
-- 🎓 I study Robotics at EPFL 
+👋 Hi, I am Vincent Philippoz
+I am currently working at Hublot R&D department on various projects.
 
 <!---
 vphilippoz/vphilippoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
