@@ -1,7 +1,3 @@
-👋 Hi, I am Vincent Philippoz
-I am currently working at Hublot R&D department on various projects.
+👋 Hi, I am Vincent Philippoz 🤗
 
-<!---
-vphilippoz/vphilippoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently working at Hublot R&D department on various projects. You can learn more about me on [my LinkedIn profile](https://www.linkedin.com/in/vincent-philippoz-958707222/).
